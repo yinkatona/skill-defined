@@ -1,0 +1,30 @@
+body{
+  background-color:rgb(232, 242, 243) ;
+}
+img{
+  border-radius :100%;
+  width: 140px;
+  height: 200px;
+}
+hr{
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: gray;
+  width: 5%;
+}
+h1, h3{
+  color:#66BFBF;
+}
+
+.textInput{
+	height: 22px;
+	border: 1px solid #888888;
+}
+
+label{
+  display: block;
+  width:150px;
+  padding: 2px 5px;
+  float: left;
+  
+}
